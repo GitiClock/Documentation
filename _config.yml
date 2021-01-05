@@ -1,0 +1,19 @@
+title: GitiClock Docs
+description: Giticlock Documentation
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+author:
+  name:       Joe
+
+gems:
+  - jekyll-paginate
+---
+permalink: /404.html
+---
+github:
+  is_project_page: false
+header_pages:
+  - about.md
+  - portfolio.md
