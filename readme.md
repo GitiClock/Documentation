@@ -7,10 +7,18 @@
 Here's An Example : 
 
 #### Format : 
-<img src="https://cdn.discordapp.com/attachments/707090525345415231/796333561798983690/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/707090525345415231/802533360660250644/unknown.png">
 
 #### Fill Up :
-<img src="https://cdn.discordapp.com/attachments/707090525345415231/796334036767080458/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/707090525345415231/802533758384209950/unknown.png">
 
 #### Result : 
 <img src="https://cdn.discordapp.com/attachments/707090525345415231/796334205231038504/unknown.png">
+
+
+##### Useful Links :
+
+- [Github](https://github.com/giticlock) 
+- [LICENSE](https://timer.js.org/license)
+- [Docs](https://timer.js.org/docs)
+- [Issue](https://github.com/GitiClock/GitiClock/issues/new)
