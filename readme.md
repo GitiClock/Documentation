@@ -2,7 +2,7 @@
 
 ### How To Use ?
 
-> We Suggest You To Use Our [Generator](https://timer.js.org/generate) If You're New To Giticlock. What You Need Its Just Filling Up The Columns Provided. 
+> We Suggest You To Use Our [Generator](https://timer.js.org/generator) If You're New To Giticlock. What You Need Its Just Filling Up The Columns Provided. 
 
 Here's An Example : 
 
